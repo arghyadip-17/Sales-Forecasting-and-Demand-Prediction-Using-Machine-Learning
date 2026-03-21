@@ -1,4 +1,4 @@
-# 📊 Sales Forecasting and Demand Prediction Using Machine Learning
+# 📊 Sales Forecasting and Demand Prediction Using Machine Learning 
 
 ## 📌 Project Overview
 This project focuses on forecasting future sales and predicting demand using historical retail sales data.  
